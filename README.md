@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sid25ta
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in Robotics and power electronics. 
 - I am currently pursuing Electrical and Electronics Engineering.
 
 <!---
