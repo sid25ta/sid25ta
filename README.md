@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sid25ta
 - 👀 I’m interested in Robotics
-- I am currently persuing Electrical and Electronics Engineering.
+- I am currently pursuing Electrical and Electronics Engineering.
 
 <!---
 sid25ta/sid25ta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
